@@ -4,7 +4,7 @@ function PortafolioWeb () {
         <div className="portafolio-web">
              <h3>Conocimientos técnicos y habilidades</h3>
             <div className="titulo">
-                <h2>Backend (lado del cliente)</h2>
+                <h2>Desarrollo FrontEnd (lado del cliente)</h2>
                 <ul>
                     <li><p>Html5</p></li>
                     <li><p>Ccs3, Flexbox, Css Grid</p></li>
